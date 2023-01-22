@@ -1,1 +1,10 @@
 node_modules/
+
+# User-specific files - Ignore all files starting with letter z
+z*
+
+# Ignore all files called .env
+.env
+
+# Build results - Ignore all files in these folders found at any folder depth
+artifacts/
